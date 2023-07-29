@@ -4,24 +4,24 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
+.header-main {
     font-weight: normal;
     font-size: 50px;
     color: azure;
 }
 
-h2{
+.header-body {
     font-weight: 300;
     font-size: 42px;
     color: azure;
 }
 
-a {
+.link {
     color: aquamarine;
     font-size: 16px;
 }
 
-p {
+.info {
     font-size: 21px;
     color: gray;
 }
